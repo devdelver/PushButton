@@ -8,7 +8,7 @@ Library for Arduino to use PushButton.
 Initially developed to Joystick Module but can be used for any button that, when pressed, connect a digital pin of arduino to a GND. 
 This button do not need a external pull up resistor because this library use the internal pull up resistor of Arduino digital pins.
 
-See tutorial, references and other stuff at "http://blog.devdelver.com/category/arduino".
+See tutorial, references and other stuff at "http://blog.devdelver.com/archives/category/arduino".
 
 CHANGE LOG
 -----------
