@@ -1,0 +1,10 @@
+##
+## Syntax Highlighting for Arduino IDE
+##
+PushButton       KEYWORD1
+getEvent         KEYWORD2
+update           KEYWORD2
+print            KEYWORD2
+EV_NONE          LITERAL1
+EV_PRESSED       LITERAL1
+EV_LONG_PRESSED  LITERAL1
